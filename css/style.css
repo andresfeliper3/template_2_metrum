@@ -138,14 +138,14 @@ h6 {
   height: 72px;
   transition: all 0.5s;
 }
-/*
+
 #header.header-scrolled {
   background: rgba(49, 54, 124, 0.9);
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
 }
-*/
+
 
 #header #logo {
   float: left;
